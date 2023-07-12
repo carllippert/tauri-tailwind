@@ -7,7 +7,7 @@
     "withGlobalTauri": false
   },
   "package": {
-    "productName": "anything",
+    "productName": "tauri-tailwind",
     "version": "0.0.0"
   },
   "tauri": {
@@ -37,7 +37,7 @@
       {
         "fullscreen": false,
         "resizable": true,
-        "title": "anything",
+        "title": "Tauri Tailwind",
         "width": 800,
         "height": 600
       }
